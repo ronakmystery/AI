@@ -1,1 +1,7 @@
-https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set
+# 🐦 Bird Song Classification
+This project trains a **Deep Learning model** to classify bird species based on their songs. It uses **Mel Spectrograms** as input features and a **CNN model** for classification.
+
+## 📂 Dataset
+- **Source**: [Bird Song Dataset on Kaggle](https://www.kaggle.com/datasets/vinayshanbhag/bird-song-data-set)
+- **Description**: Contains **audio recordings of bird songs** with labeled species.
+- **Format**: `.wav` files + CSV metadata.
