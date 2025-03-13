@@ -1,0 +1,10 @@
+*.jpg
+
+frcnn
+
+*.pt
+
+__pycache__
+
+
+*.jpg
